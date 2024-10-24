@@ -1,6 +1,6 @@
 # Version 1 
 ## Website Testing-DEE
-\t\t\t\t![testing-DEE](https://github.com/user-attachments/assets/3f150d75-df5d-4ce1-9a06-8aa9325e23aa)
+<img src="[https://alamatgambar.com](https://dee.co.id/wp-content/uploads/2024/09/Yellow-and-Black-Flat-Illustrative-Honey-Bee-Logo-1-150x150.png)" alt="Testing-DEE" style="display: block; margin: 0 auto;" />
 
 [Link Testing-DEE](https://localhost:8080)
 
