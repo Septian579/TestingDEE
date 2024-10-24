@@ -6,6 +6,9 @@
 <br>
 [Link Testing-DEE](https://localhost:8080)
 
+Cara menjalankan 
+`npm install bootstrap`
+
 `Fitur :`
 1. lorem
 2. lorem
